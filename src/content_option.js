@@ -1,74 +1,74 @@
-const logotext = "JOHN";
+const logotext = "TORMEWNT.COM";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "tormewnt.com",
+    description: "I’m tormewnt!",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Nev",
     animated: {
-        first: "I love coding",
+        first: "I love Roblox",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I code Roblox games",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "don't like me? then block me. she/her. drama=block. FREE PALESTINE.",
+    your_img_url: "https://media.discordapp.net/attachments/1013894309495455744/1191422503843811378/MogNT69.jpg?ex=65a561ac&is=6592ecac&hm=ed7799251b7eea573da8def67ae029b455161088af2d7145e986a6e66c93fad7&=&format=webp&width=696&height=696",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "about myself",
+    aboutme: "i love coding, creating new things, and graphic designing.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Chief Financial Officer",
+        where: "Freshbuys",
+        date: "2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Chairwoman",
+        where: "Dunkin Donuts on Roblox",
+        date: "2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Group President",
+        where: "Riverdale Junior High",
+        date: "2023 - Present",
     },
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
+        name: "Nuxt.js",
+        value: 70,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "RBXLUA",
+        value: 50,
     },
     {
         name: "Javascript",
-        value: 80,
+        value: 30,
     },
     {
         name: "React",
-        value: 60,
+        value: 20,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "Discord.js",
+        value: 5,
     },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Leadership",
+        description: "I demonstrate excellent leadership skills and am able to work well with others.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Communication",
+        description: "I demonstrate excellent communication skills.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Entrepreneurship",
+        description: "I demonstrate excellent entrepreneurship skills.",
     },
 ];
 
@@ -136,14 +136,14 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "hello@tormewnt.com",
+    YOUR_FONE: "personal information don't you think",
+    description: "abuse=block. don't come in contact if all you want to get is my attention. theres other people too. i will get to you as i can.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "ervice_0pad6po",
+    YOUR_TEMPLATE_ID: "template_g52wljo",
+    YOUR_USER_ID: "_nQgYGVjDPwxgUPlC",
 };
 
 const socialprofils = {
