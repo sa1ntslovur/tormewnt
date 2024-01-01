@@ -91,10 +91,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/sa1ntslovur",
+    facebook: "https://tormewnt.com",
+    linkedin: "https://tormewnt.com",
+    twitter: "https://tormewnt.com",
 };
 export {
     meta,
