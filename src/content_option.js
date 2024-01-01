@@ -138,7 +138,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "hello@tormewnt.com",
     YOUR_FONE: "personal information don't you think",
-    description: "abuse=block. don't come in contact if all you want to get is my attention. theres other people too. i will get to you as i can.",
+    description: "abuse=block. don't come in contact if all you want to get is my attention just to entertain yourself/and or be rude. theres other people too. i will get to you as i can.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "ervice_0pad6po",
